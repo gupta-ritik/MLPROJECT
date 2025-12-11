@@ -1,0 +1,7 @@
+setup.py
+MLPROJECT.egg-info/PKG-INFO
+MLPROJECT.egg-info/SOURCES.txt
+MLPROJECT.egg-info/dependency_links.txt
+MLPROJECT.egg-info/requires.txt
+MLPROJECT.egg-info/top_level.txt
+src/__init__.py
