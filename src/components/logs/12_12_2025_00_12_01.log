@@ -1,5 +1,0 @@
-[ 2025-12-12 00:12:01,477 ] 31 root - INFO - Entered the data ingestion method
-[ 2025-12-12 00:12:01,477 ] 38 root - INFO - Reading CSV file from: C:\Users\ritik\Desktop\MLPRJECT\notebook\data\stud.csv
-[ 2025-12-12 00:12:01,488 ] 41 root - INFO - Read dataset as DataFrame
-[ 2025-12-12 00:12:01,493 ] 49 root - INFO - Train-test split initiated
-[ 2025-12-12 00:12:01,507 ] 56 root - INFO - Ingestion of data completed successfully
